@@ -1,7 +1,7 @@
 # esx_deliveries
 FiveM deliveries job plugin remake by Akkariin, Modified by WickedScotsman
 
-MODIFICATIONS
+# MODIFICATIONS
 
 Changed so you no longer require a job to see markers
 
@@ -9,7 +9,7 @@ Added a custom vehicle which replaces the pony for the middle tier vehicle
 
 You can see this Job in action on the Max Speed RP Server
 
-ORIGINAL README
+# ORIGINAL README
 
 The original plugin is https://github.com/apoiat/ESX_Deliveries , I use the Lua language to rewrite it and added some new features.
 
