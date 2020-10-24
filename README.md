@@ -5,6 +5,8 @@ FiveM deliveries job plugin remake by Akkariin, Modified by WickedScotsman
 
 Changed so you no longer require a job to see markers
 
+Removed deposit money option so job no longer scams you when it spawns a vehicle and explodes
+
 Added a custom vehicle which replaces the pony for the middle tier vehicle
 
 You can see this Job in action on the Max Speed RP Server
